@@ -9,7 +9,7 @@ El material está organizado por control complementario para facilitar su revisi
 | Control | Contenido | Ubicación |
 | ------- | --------- | --------- |
 | Control Complementario 1 | Servidores virtuales y contenedores (Amazon EC2, Docker y nginx) | [Control Complementario 1](./Control%20Complementario%201) |
-| Control Complementario 2 | ---- | [Control Complementario 2](./Control%20Complementario%202) |
+| Control Complementario 2 | Modelos globales de infraestructura cloud, servidores, contenedores y bases de datos en AWS | [Control Complementario 2](./Control%20Complementario%202) |
 | Control Complementario 3 | ---- | [Control Complementario 3](./Control%20Complementario%203) |
 
 ## Herramientas
